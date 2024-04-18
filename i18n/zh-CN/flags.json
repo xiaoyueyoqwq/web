@@ -95,8 +95,8 @@
       }
     },
     "gui": {
-      "description": "是否显示内置的服务器管理GUI。",
-      "label": "使用GUI"
+      "description": "是否禁用内置的服务器管理GUI。",
+      "label": "禁用GUI"
     },
     "memory": {
       "description": "分配给服务器的内存（RAM）量。",
